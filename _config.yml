@@ -38,7 +38,7 @@ kramdown:
     css_class: highlight
 sass:
   style: expanded
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-feed
 exclude:
@@ -48,3 +48,4 @@ exclude:
 - README.md
 - CNAME
 mobile-theme: jekyll-theme-basically-basic
+theme: jekyll-theme-basically-basic

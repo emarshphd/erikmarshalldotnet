@@ -12,23 +12,23 @@ name: Erik Marshall
 description: Writer, Educator
 avatar: https://avatars0.githubusercontent.com/u/41658503?s=400&v=4
 footer-links:
-  dribbble: 
+  dribbble:
   email: erik@erikmarshall.net
-  facebook: 
-  flickr: 
-  github: 
+  facebook:
+  flickr:
+  github:
   instagram: emarshphd
-  linkedin: 
-  pinterest: 
-  rss: 
+  linkedin:
+  pinterest:
+  rss:
   twitter: emarsh
-  stackoverflow: 
-  youtube: 
-  googleplus: 
-disqus: 
-google_analytics: 
-url: 
-baseurl: 
+  stackoverflow:
+  youtube:
+  googleplus:
+disqus:
+google_analytics:
+url:
+baseurl:
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
@@ -47,4 +47,4 @@ exclude:
 - LICENSE
 - README.md
 - CNAME
-theme: jekyll-theme-basically-basic
+mobile-theme: jekyll-theme-basically-basic
